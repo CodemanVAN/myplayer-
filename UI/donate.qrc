@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>微信.png</file>
+    <file>支付宝_gaitubao_628x723.jpg</file>
+  </qresource>
+</RCC>
